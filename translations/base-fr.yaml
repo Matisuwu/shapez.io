@@ -11,14 +11,14 @@ steamPage:
         Et en plus, vous devrez aussi produire de plus en plus pour satisfaire la demande. La seule solution est de construire en plus grand ! Au début vous ne ferez que découper les formes, mais plus tard vous devrez les peindre — et pour ça vous devrez extraire et mélanger des couleurs !
 
         En achetant le jeu sur Steam, vous aurez accès à la version complète, mais vous pouvez aussi jouer à une démo sur shapez.io et vous décider ensuite !
-    what_others_say: What people say about shapez.io
+    what_others_say: Ce que les gens disent à propos de shapez.io
     nothernlion_comment: This game is great - I'm having a wonderful time playing,
         and time has flown by.
-    notch_comment: Oh crap. I really should sleep, but I think I just figured out
-        how to make a computer in shapez.io
-    steam_review_comment: This game has stolen my life and I don't want it back.
-        Very chill factory game that won't let me stop making my lines more
-        efficient.
+    notch_comment: Oh crap. Je devrais vraiment dormir, mais je pense que je vais juste chercher
+        comment faire un ordinateur dans shapez.io
+    steam_review_comment: Ce jeu a volé ma vie et je ne n'en veut plus.
+        Je très tranquille d'usine qui ne vas pas m'arrêter de rendre mes chemins
+        plus efficace.
 global:
     loading: Chargement
     error: Erreur
@@ -577,9 +577,9 @@ buildings:
 storyRewards:
     reward_cutter_and_trash:
         title: Découpage de formes
-        desc: You just unlocked the <strong>cutter</strong>, which cuts shapes in half
-            from top to bottom <strong>regardless of its
-            orientation</strong>!<br><br>Be sure to get rid of the waste, or
+        desc: Tu viens juste de débloquer le <strong>coupeur</strong>, qui coupe les formes en deux
+            de haut en bas <strong>sans se soucier de
+            l'orientation</strong>!<br><br>Be sure to get rid of the waste, or
             otherwise <strong>it will clog and stall</strong> - For this purpose
             I have given you the <strong>trash</strong>, which destroys
             everything you put into it!
